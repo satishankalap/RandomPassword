@@ -1,0 +1,5 @@
+This is a small project for generating 16 digits random password,which includes 4 numbers,4 alphabets and again 4 numbers with 4 alphabets.User should pass the email-id and mobile number.
+
+Here we use MYSQL Database for storing the email-id,mobile and the random password.
+
+If user enters the email which is already stored in the database then it should prompt some message called "email already exists".

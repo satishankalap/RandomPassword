@@ -1,0 +1,5 @@
+This is a small project for generating 16 digits random password,which includes 4 numbers,4 alphabets and again 4 numbers with 4 alphabets.User need to pass the username.
+
+Here we are not using any Database for storing the username and the random password.Instead we use text file to store the data.
+
+If user enters the username which is already stored in the file then it should prompt some message called "username already exists".
